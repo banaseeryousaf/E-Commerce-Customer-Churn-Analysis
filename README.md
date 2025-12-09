@@ -56,8 +56,8 @@ Key Columns: CustomerID, Tenure, PreferredPaymentMode, PreferredOrderCat, CityTi
 
  FILES INCLUDED
   
-- E-Commerce Customer churn db – Table creation and sample data insertion. 
-- ecomm – Cleaned and transformed dataset.
+- E-Commerce Customer churn db.sql – Table creation and sample data insertion. 
+- ecomm.sql – Cleaned and transformed dataset.
 - README.md – Project description.
 
 
